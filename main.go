@@ -1,6 +1,7 @@
 package main
 
 func main() {
-	Values()
+	//Var()
+	//Values()
 	//Hello()
 }
